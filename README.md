@@ -125,10 +125,12 @@ ollama launch claude
 
 | Что | Скриншот |
 |---|---|
-| Команды в меню `/` | ![Меню команд](docs/screenshots/01-commands-menu.png) |
-| Результат `/post` | ![Пост](docs/screenshots/02-post-result.png) |
-| Воронка вебинара | ![Воронка](docs/screenshots/03-funnel-result.png) |
-| Структура проекта | ![Структура](docs/screenshots/04-project-tree.png) |
+| Команда `/post` в меню | ![Команда /post в меню](docs/screenshots/01-command-post-menu.png) |
+| Команда `/funnel` в меню | ![Команда /funnel в меню](docs/screenshots/02-command-funnel-menu.png) |
+| Начало ответа `/post` про порог НДС | ![Начало ответа /post](docs/screenshots/03-post-result.png) |
+| Три варианта поста с пометками `[проверить]` | ![Три варианта поста](docs/screenshots/04-post-variants.png) |
+| Расписание воронки после `/funnel` | ![Расписание воронки](docs/screenshots/05-funnel-schedule.png) |
+| Тексты приглашения: письмо и Telegram | ![Тексты воронки](docs/screenshots/06-funnel-texts.png) |
 
 ## Как это устроено
 
